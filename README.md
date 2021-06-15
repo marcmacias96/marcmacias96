@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://github.com/marcmacias96/marcmacias96/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png" alt="banner- software engineer">
 **marcmacias96/marcmacias96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
