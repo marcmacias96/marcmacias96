@@ -13,4 +13,5 @@ I am a software engineer with experience in the development of software projects
 - <a href="https://www.linkedin.com/in/marco-macias-a1ab58174/">LinkedIn</a> 💼
 
 ## Find my StartFit app in the different stores
-- <a href="https://play.google.com/store/apps/details?id=com.stardev.startfit">PlayStore</a> | <a href="https://apps.apple.com/us/app/startfit/id1538188375">AppStore</a> 
+- <a href="https://play.google.com/store/apps/details?id=com.stardev.startfit">PlayStore</a> 
+-  <a href="https://apps.apple.com/us/app/startfit/id1538188375">AppStore</a> 
