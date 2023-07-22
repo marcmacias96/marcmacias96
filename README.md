@@ -5,8 +5,6 @@ I am a software engineer with experience in the development of software projects
 
 ##
 
-- 🔭 I’m currently working on my app StartFit 
-- 🌱 I’m currently learning DDD arquitecture
 - 👯 I’m looking to collaborate on flutter proyects
 
 ## Find me around the web 🌎:
